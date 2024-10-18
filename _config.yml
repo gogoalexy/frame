@@ -9,10 +9,7 @@ logo_image:
   enable: false
   image_path: /logo.png # path to your logo image
 
-menu:
-  Home: /
-  Archive: /archives/
-  Gallery: /categories/gallery/
+# do not define any menu button here
 
 # stylesheets loaded in the <head>
 stylesheets:
@@ -33,9 +30,7 @@ profile:
   body: A minimal, elegant hexo theme.
   image: /profile_cover.png
 
-  links:
-    Home: /
-    Blogs: /archives/
+  # do not define any profile link here
 
 # footer
 footer:
